@@ -1,8 +1,9 @@
 void main() {
   int num1 = 10;
-  if (num1 == 3) {
-    print("This is true condition ");
+
+  if (num1 == 10) {
+    print("If statement is true");
   }
 
-  print("After statement condition ");
+  print(" statement is below of if statement");
 }
